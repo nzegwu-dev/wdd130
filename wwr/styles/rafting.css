@@ -79,3 +79,7 @@ article {
     width: 125px;
     margin: 0 0 8px;
 }
+
+footer {
+    background-color: var(--secondary-color);
+}
